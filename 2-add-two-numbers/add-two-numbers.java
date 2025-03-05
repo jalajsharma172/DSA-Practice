@@ -30,7 +30,7 @@ class Solution {
             // }else{
               
             // }
-            System.out.println(sum);
+            // System.out.println(sum);
             l1=l1.next;
             l2=l2.next;
         }
@@ -49,7 +49,7 @@ class Solution {
             // }else{
               
             // }
-            System.out.println(sum);
+            // System.out.println(sum);
             l1=l1.next;
         }
             while (l2 != null) {
@@ -67,7 +67,7 @@ class Solution {
             // }else{
               
             // }
-            System.out.println(sum);
+            // System.out.println(sum);
             l2=l2.next;
         }
         if(carry!=0){
